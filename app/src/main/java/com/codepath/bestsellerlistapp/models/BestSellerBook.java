@@ -24,4 +24,5 @@ public class BestSellerBook {
 
    @SerializedName("amazon_product_url")
    public String amazonUrl;
+
 }

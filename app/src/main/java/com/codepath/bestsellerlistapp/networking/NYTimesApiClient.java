@@ -23,7 +23,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
  * after copy and paste the API key under your Account -> Apps -> <Your App> -> API Keys
  */
 public class NYTimesApiClient {
-    
+
     private static final String API_KEY = "Tslpboxrptbg029SA4TORpdIYVOuBtJ2";
     private NYTimesService nyTimesService;
 
